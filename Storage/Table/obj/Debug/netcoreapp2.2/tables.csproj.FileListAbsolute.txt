@@ -1,0 +1,12 @@
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\bin\Debug\netcoreapp2.2\tables.deps.json
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\bin\Debug\netcoreapp2.2\tables.runtimeconfig.json
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\bin\Debug\netcoreapp2.2\tables.runtimeconfig.dev.json
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\bin\Debug\netcoreapp2.2\tables.dll
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\bin\Debug\netcoreapp2.2\tables.pdb
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\obj\Debug\netcoreapp2.2\tables.csprojAssemblyReference.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\obj\Debug\netcoreapp2.2\tables.csproj.CoreCompileInputs.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\obj\Debug\netcoreapp2.2\tables.AssemblyInfoInputs.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\obj\Debug\netcoreapp2.2\tables.AssemblyInfo.cs
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\obj\Debug\netcoreapp2.2\tables.dll
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\obj\Debug\netcoreapp2.2\tables.pdb
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Storage\Table\obj\Debug\netcoreapp2.2\tables.genruntimeconfig.cache
