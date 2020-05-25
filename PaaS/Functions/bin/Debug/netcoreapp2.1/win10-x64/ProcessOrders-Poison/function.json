@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-1.0.24",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "queueTrigger",
+      "connection": "AzureWebJobsStorage",
+      "queueName": "incoming-orders-poison",
+      "name": "queueItem"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/functions.dll",
+  "entryPoint": "ankit.az203.paas.functions.OrderProcessor.ProcessFailedOrders"
+}

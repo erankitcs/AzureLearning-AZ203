@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Tech\\AZURE- Training\\Azure-AZ-203\\code\\AzureLearning-AZ203\\Monitor\\bloblog\\configbloblogging\\configlogging.csproj": {}
+  },
+  "projects": {
+    "d:\\Tech\\AZURE- Training\\Azure-AZ-203\\code\\AzureLearning-AZ203\\Monitor\\bloblog\\configbloblogging\\configlogging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Tech\\AZURE- Training\\Azure-AZ-203\\code\\AzureLearning-AZ203\\Monitor\\bloblog\\configbloblogging\\configlogging.csproj",
+        "projectName": "configlogging",
+        "projectPath": "d:\\Tech\\AZURE- Training\\Azure-AZ-203\\code\\AzureLearning-AZ203\\Monitor\\bloblog\\configbloblogging\\configlogging.csproj",
+        "packagesPath": "C:\\Users\\Rishu\\.nuget\\packages\\",
+        "outputPath": "d:\\Tech\\AZURE- Training\\Azure-AZ-203\\code\\AzureLearning-AZ203\\Monitor\\bloblog\\configbloblogging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rishu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Azure.Common": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.Azure.Management.ResourceManager": {
+              "target": "Package",
+              "version": "[2.0.0-preview, )"
+            },
+            "Microsoft.Azure.Management.ResourceManager.Fluent": {
+              "target": "Package",
+              "version": "[1.19.0, )"
+            },
+            "Microsoft.Azure.Management.Websites": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[9.4.2, )"
+            },
+            "Microsoft.Azure.Storage.Common": {
+              "target": "Package",
+              "version": "[9.4.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

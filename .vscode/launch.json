@@ -9,17 +9,12 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Storage/Table/bin/Debug/netcoreapp3.1/tables.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/cosmosdb.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Storage/Table",
-            "console": "internalConsole",
-            "stopAtEntry": false
-        },
-        {
-            "name": ".NET Core Attach",
-            "type": "coreclr",
-            "request": "attach",
-            "processId": "${command:pickProcess}"
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
         }
+        
     ]
 }

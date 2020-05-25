@@ -1,0 +1,10 @@
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.csprojAssemblyReference.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.csproj.CoreCompileInputs.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.AssemblyInfoInputs.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.AssemblyInfo.cs
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.TagHelpers.input.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.TagHelpers.output.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.dll
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.pdb
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\Monitor\aicore\obj\Debug\netcoreapp3.1\web.RazorCoreGenerate.cache

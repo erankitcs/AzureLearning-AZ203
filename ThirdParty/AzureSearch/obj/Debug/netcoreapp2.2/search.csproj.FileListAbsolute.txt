@@ -1,0 +1,13 @@
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\bin\Debug\netcoreapp2.2\search.deps.json
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\bin\Debug\netcoreapp2.2\search.runtimeconfig.json
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\bin\Debug\netcoreapp2.2\search.runtimeconfig.dev.json
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\bin\Debug\netcoreapp2.2\search.dll
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\bin\Debug\netcoreapp2.2\search.pdb
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\obj\Debug\netcoreapp2.2\search.csprojAssemblyReference.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\obj\Debug\netcoreapp2.2\search.csproj.CoreCompileInputs.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\obj\Debug\netcoreapp2.2\search.AssemblyInfoInputs.cache
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\obj\Debug\netcoreapp2.2\search.AssemblyInfo.cs
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\obj\Debug\netcoreapp2.2\search.dll
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\obj\Debug\netcoreapp2.2\search.pdb
+D:\Tech\AZURE- Training\Azure-AZ-203\code\AzureLearning-AZ203\ThirdParty\AzureSearch\obj\Debug\netcoreapp2.2\search.genruntimeconfig.cache

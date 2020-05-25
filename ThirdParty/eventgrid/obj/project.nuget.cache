@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "idgAnjoabVbriLgIILlPfEIPYHbCys3TK3XGy+4JEMEdeVQts3cWk2GNCfBYF4Z9aYI6vzau4L1jt/j8z0DLaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Tech\\AZURE- Training\\Azure-AZ-203\\code\\AzureLearning-AZ203\\ThirdParty\\eventgrid\\viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rishu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
